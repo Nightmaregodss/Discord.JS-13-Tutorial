@@ -1,5 +1,5 @@
 {
-	"name": "tutorial-bot-ep2",
+	"name": "tutorial-bot",
 	"version": "1.0.0",
 	"main": "src/index.js",
 	"author": "Ferotiq",
