@@ -17,14 +17,14 @@ module.exports = new Command({
 
 		embed
 			.setTitle("This is a test embed")
-			.setURL("https://ferotiq.dev")
+			.setURL("")
 			.setAuthor(
 				user.username,
 				user.avatarURL({ dynamic: true }),
-				"https://ferotiq.dev/"
+				""
 			)
 			.setDescription(
-				"this is some plain text,\nhere is a link: [this is a test link](https://ferotiq.dev)"
+				""
 			)
 			.setColor("BLURPLE")
 			.setThumbnail(user.avatarURL({ dynamic: true }))
